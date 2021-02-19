@@ -67,7 +67,7 @@ a.active,a:hover{
 	width: 100%;
 	display: flex;	
 	flex-direction: column;
-	background-image: url(img/fondo1.jpg);
+	background-image: url(fondo1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-top: 82px;
