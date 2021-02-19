@@ -67,7 +67,7 @@ a.active,a:hover{
 	width: 100%;
 	display: flex;	
 	flex-direction: column;
-	background-image: url(fondo1.jpg);
+	background-image: url(https://scontent.ftru2-3.fna.fbcdn.net/v/t1.0-9/p960x960/147704606_148986660368281_1166439968158142123_o.jpg?_nc_cat=100&ccb=3&_nc_sid=730e14&_nc_eui2=AeH0Cr8T0zxHcNlEEGxyW9EuFJBT2iLCFcsUkFPaIsIVy-tJf1-RiHFMVRnKT2JTWAkeCNDu-7ecr-g2n8HTLF72&_nc_ohc=zKFVojpRh6kAX-kiS_8&_nc_ht=scontent.ftru2-3.fna&tp=6&oh=7e9894416732d29c5140b603bfd38ec7&oe=6053D7BB);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-top: 82px;
